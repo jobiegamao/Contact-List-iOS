@@ -7,6 +7,8 @@
 
 ## Screenshots
 
-![Screenshot 1](ContactList/Resources/Screenshots/1.png)
-![Screenshot 2](ContactList/Resources/Screenshots/2.png)
-![Screenshot 3](ContactList/Resources/Screenshots/3.png)
+<div>
+  <img src="ContactList/Resources/Screenshots/3.png" alt="Screenshot 3" width="25%">
+  <img src="ContactList/Resources/Screenshots/1.png" alt="Screenshot 1" width="25%">
+  <img src="ContactList/Resources/Screenshots/2.png" alt="Screenshot 2" width="25%">
+</div>
