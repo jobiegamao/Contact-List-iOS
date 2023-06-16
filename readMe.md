@@ -7,6 +7,6 @@
 
 ## Screenshots
 
-![Screenshot 1](Resources/Screenshots/1.png)
-![Screenshot 2](Resources/Screenshots/2.png)
-![Screenshot 2](Resources/Screenshots/3.png)
+![Screenshot 1](ContactList/Resources/Screenshots/1.png)
+![Screenshot 2](ContactList/Resources/Screenshots/2.png)
+![Screenshot 3](ContactList/Resources/Screenshots/3.png)
